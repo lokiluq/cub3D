@@ -1,0 +1,9 @@
+NO ./textures/brick_wall.xpm 
+WE ./textures/4th_brick_wall.xpm 
+EA ./textures/wood.xpm 
+SO ./textures/grey_wall.xpm 
+F 20,200,0
+C 225,30,100
+111
+1N1
+111
